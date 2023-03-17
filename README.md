@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Nine4</h1>
-<h3 align="center">Small Frontend Developer</h3>
+<h3 align="center">Aspiring Frontend Developer & Graphic Designer</h3>
 
 - 🔭 I’m currently working on [my portfolio.](https://github.com/nine4x/portfolio)
 
@@ -32,7 +32,5 @@ Here are some ideas to get you started:
 <h3 align="left">Github Stats</h3>
 
 <h1 align="center"> </h3>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nine4x&show_icons=true&locale=en&layout=compact&theme=dark" alt="nine4x" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nine4x&theme=dark" alt="nine4x" /></p>
