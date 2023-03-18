@@ -29,8 +29,10 @@ Here are some ideas to get you started:
 - **HTML & CSS:** I know a decent amount of HTML and CSS. I am able to create somewhat decent looking websites.
 - **Photoshop:** I can create good looking thumnbails for games like Minecraft.
 
-<h3 align="left">Github Stats</h3>
+<h3 align="left">Github Stats & Discord Status</h3>
 
 <h1 align="center"> </h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nine4x&theme=dark" alt="nine4x" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nine4x&theme=dark" alt="nine4x" /></p
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/756322195671613510)](https://discord.com/users/756322195671613510)
